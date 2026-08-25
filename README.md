@@ -27,10 +27,7 @@ To set up your environment for ESP32 development:
 
 ## 📂 Repository Contents
 
-- `samples/` → Sample sketches and simulation projects for practice.
-  - sample_1: Blink and basic GPIO control
-  - sample_2: Sensor reading (e.g., DHT22 / potentiometer) with serial monitor output
-  - sample_3: Wokwi simulation project with wiring diagram (`diagram.json`) and sketch
+TODO
 
 ---
 
