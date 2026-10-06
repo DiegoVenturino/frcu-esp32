@@ -100,7 +100,7 @@ Servo X: 104° | Servo Y: 134°
 
 The circuit was simulated in Wokwi while the parts were being printed, so that once they arrived only the physical assembly was left.
 
-**Wokwi project link:** [Enter link if available]
+**Wokwi project link:** [Estabilizador_Celular_GRUPO_8](https://wokwi.com/projects/477088166542319617)
 
 **Diagram/export files:** [Enter file names/paths if included in the repo, e.g. `connection_diagram.png`]
 
