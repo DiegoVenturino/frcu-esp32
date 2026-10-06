@@ -31,7 +31,7 @@
 ## 🛠️ Usage Instructions
 
 ### Step 1: Install and configure the software
-1. Install Arduino IDE (version 2 or later) from arduino.cc.
+1. Install the [Arduino IDE 2.x](https://www.arduino.cc/en/software).
 2. In *File > Preferences*, add this URL to "Additional boards manager URLs":
    `https://espressif.github.io/arduino-esp32/package_esp32_index.json`
 3. In *Tools > Board > Boards Manager*, install the **esp32** package by Espressif Systems.
