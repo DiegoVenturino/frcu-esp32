@@ -102,7 +102,8 @@ The circuit was simulated in Wokwi while the parts were being printed, so that o
 
 **Wokwi project link:** [Estabilizador_Celular_GRUPO_8](https://wokwi.com/projects/477088166542319617)
 
-**Diagram/export files:** ![](docs/conection_diagram.png)
+**Diagram/export files:** 
+![](docs/conection_diagram.png)
 
 ## 📝 Additional Notes
 
