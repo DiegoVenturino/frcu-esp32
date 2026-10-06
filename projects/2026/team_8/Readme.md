@@ -102,7 +102,7 @@ The circuit was simulated in Wokwi while the parts were being printed, so that o
 
 **Wokwi project link:** [Estabilizador_Celular_GRUPO_8](https://wokwi.com/projects/477088166542319617)
 
-**Diagram/export files:** [Enter file names/paths if included in the repo, e.g. `connection_diagram.png`]
+**Diagram/export files:** [](docs/conection_diagram.png)
 
 ## 📝 Additional Notes
 
@@ -114,10 +114,8 @@ The circuit was simulated in Wokwi while the parts were being printed, so that o
 - **Dead zone and limits:** a dead zone (0.5°) and a compensation limit were added to avoid jitter and protect the mechanism.
 
 **Current limitations:**
-- Only two axes are stabilized (Roll and Pitch); the Yaw axis is not corrected.
 - The system takes the position it starts in as 0°, so it must be powered on level and kept still during calibration.
 - The MG90S servos have limited torque (about 1.8 kg·cm at 4.8 V) and a USB port delivers about 500 mA: with a heavy phone the servos may shake or lose strength (a wall charger of 1 A or more is recommended).
-- Mechanical play between the printed parts and the servos introduces errors that the software does not compensate.
 - The servo center values depend on the physical assembly.
 
 **Potential improvements:**
