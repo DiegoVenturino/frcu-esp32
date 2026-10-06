@@ -11,8 +11,6 @@
 - Federico Rojas
 - Diego Venturino
 
-**Instructors:** Ing. Mauro Sander Dimuro, Ing. Jaime Piperno
-
 ## 🤖 Project Description
 
 **Description:** A 2-axis phone stabilizer (gimbal) that corrects unwanted movement in Roll (X) and Pitch (Y). An ESP32 reads the accelerometer and gyroscope of an MPU6050 sensor, estimates the tilt by combining both sensors (complementary filter), and drives two servo motors in the opposite direction of the tilt, so the phone holder stays level even when the hand moves. The project shows that basic two-axis stabilization can be achieved with cheap, easy-to-find components.
