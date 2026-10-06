@@ -55,9 +55,6 @@
 | ESP32 | GND | Common GND |
 | ESP32 | USB | Computer (powers the board and uploads the program) |
 
-> ⚠️ The grounds must be joined (common GND). Without it, the control signal has no reference and the servos move erratically.
-> The servos are powered separately because they can draw hundreds of mA in peaks, and those voltage drops could reset the ESP32. In the Wokwi simulation the servos take 5 V from the board's 5V pin, because the simulator has no separate power source.
-
 ### Step 3: Upload and run the sketch
 1. Connect the ESP32 via USB. In *Tools*, select the **ESP32 Dev Module** board and the corresponding port.
 2. Open the `.ino` file and upload the code. If the upload does not start, hold down the **BOOT** button on the board until it begins.
