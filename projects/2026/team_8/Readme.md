@@ -94,7 +94,7 @@ Servo X: 104° | Servo Y: 134°
 - **Complementary filter:** while there is movement, the gyroscope is used; when the sensor is still, the estimated angle slowly moves toward the accelerometer angle to correct drift.
 - **Integral control:** each cycle, a fraction of the estimated angle (`KI × error`) is added to each servo's accumulated compensation until the error reaches 0 (level position).
 
-[Link a carpeta de drive con video a modo de demostración](https://drive.google.com/drive/folders/1WmXg_ZdmgWz-4-SYHT1wOfvsHvKkWypP?usp=drive_link)
+[Link to a drive folder containing a demo video](https://drive.google.com/drive/folders/1WmXg_ZdmgWz-4-SYHT1wOfvsHvKkWypP?usp=drive_link)
 
 ## 🧪 Simulation
 
