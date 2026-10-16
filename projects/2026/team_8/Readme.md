@@ -122,6 +122,3 @@ The circuit was simulated in Wokwi while the parts were being printed, so that o
 
 **Potential improvements:**
 - Manual control mode with an analog joystick: pressing the button (with an interrupt and debouncing) stops stabilization, the servos go to their center position and the user moves the camera with the stick. Pressing it again resumes stabilization.
-- Upgrade from integral control to a full PI or PID controller.
-- Add a third servo for the Yaw axis, with a magnetometer to correct its drift.
-- Add a capacitor to the servo power supply to absorb consumption peaks.
